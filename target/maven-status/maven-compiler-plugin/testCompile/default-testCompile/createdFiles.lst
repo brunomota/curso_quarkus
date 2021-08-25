@@ -1,6 +1,0 @@
-META-INF/panache-archive.marker
-br/com/mota/resource/BitcoinResourceTest.class
-br/com/mota/model/UsuarioTest.class
-br/com/mota/GreetingResourceTest.class
-br/com/mota/repository/OrdemRepositoryTest.class
-br/com/mota/NativeGreetingResourceIT.class
