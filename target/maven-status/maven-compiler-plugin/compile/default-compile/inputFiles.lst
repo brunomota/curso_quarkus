@@ -1,0 +1,10 @@
+/home/33449425811/projetos/quarkus/curso_quarkus/src/main/java/br/com/mota/model/Usuario.java
+/home/33449425811/projetos/quarkus/curso_quarkus/src/main/java/br/com/mota/model/Ordem.java
+/home/33449425811/projetos/quarkus/curso_quarkus/src/main/java/br/com/mota/resource/OrdemResource.java
+/home/33449425811/projetos/quarkus/curso_quarkus/src/main/java/br/com/mota/GreetingResource.java
+/home/33449425811/projetos/quarkus/curso_quarkus/src/main/java/br/com/mota/model/Bitcoin.java
+/home/33449425811/projetos/quarkus/curso_quarkus/src/main/java/br/com/mota/resource/BitcoinResource.java
+/home/33449425811/projetos/quarkus/curso_quarkus/src/main/java/br/com/mota/service/OrdemService.java
+/home/33449425811/projetos/quarkus/curso_quarkus/src/main/java/br/com/mota/repository/OrdemRepository.java
+/home/33449425811/projetos/quarkus/curso_quarkus/src/main/java/br/com/mota/resource/UsuarioResource.java
+/home/33449425811/projetos/quarkus/curso_quarkus/src/main/java/br/com/mota/service/BitcoinService.java
